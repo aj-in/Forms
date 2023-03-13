@@ -1,0 +1,58 @@
+*{
+    margin:0px;
+    padding:0px;
+    background-color: black;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+.container{
+    max-width: 80%;
+    padding: 34px;
+    margin: auto;
+    
+}
+
+.container h3{
+    text-align: center;
+}
+
+.container p{
+    margin-top: 5em;
+}
+
+input {
+    padding: 0.5em;
+    border-radius: 12px;
+    outline: none;
+
+}
+
+p {
+    text-align: center;
+}
+
+.submit{
+    background-color: green;
+    padding: 0.7em;
+    border-radius: 12px;
+    outline: none;
+
+
+
+}
+
+.reset{
+    background-color: red;
+    border-radius: 12px;
+    padding: 0.7em;
+}
+
+button{
+    cursor: pointer;
+}
+
+textarea {
+    border-radius: 12px;
+    padding: 0.2em;
+}
